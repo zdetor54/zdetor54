@@ -1,4 +1,4 @@
-# Hi, I'm Zacharias Detorakis 👋
+# Hi, I'm Zac 👋
 
 **AI/ML Engineer · PhD in AI & NLP · London**
 
@@ -33,6 +33,7 @@
 - **PhD**, Artificial Intelligence / NLP — National Technical University Athens
 - **MSc**, Data Science (Distinction) — City, University of London
 - **MBA**, Techno-Economic Systems — National Technical University Athens
+- **MSc/Diploma**, Electrical Engineering & Computer Science — National Technical University Athens
 - Azure AI Fundamentals (2024) · Azure Fundamentals (2024) · IBM Data Science Professional Certificate (2019) · Machine Learning, Stanford/Coursera (2016)
 
 ---
