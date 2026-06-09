@@ -1,4 +1,4 @@
-# Hi, I'm Zacharias Detorakis 👋
+# Hi, I'm Zac 👋
 
 **AI/ML Engineer · PhD in AI & NLP · London**
 
