@@ -1,4 +1,4 @@
-# Hi, I'm Zac 👋
+# Hi, I'm Zacharias Detorakis 👋
 
 **AI/ML Engineer · PhD in AI & NLP · London**
 
@@ -20,9 +20,9 @@
 
 | Project | Description |
 |---|---|
+| [energy_octopus](https://github.com/zdetor54/energy_octopus) | Energy data analysis in Python |
 | [ibm-data-science-capstone](https://github.com/zdetor54/ibm-data-science-capstone) | Capstone project for IBM Data Science Professional Certificate |
 | [city-ds-final-project](https://github.com/zdetor54/city-ds-final-project) | MSc Data Science final project — City, University of London |
-| [energy_octopus](https://github.com/zdetor54/energy_octopus) | Energy data analysis in Python |
 | [agentic-ai-upskilling](https://github.com/zdetor54/agentic-ai-upskilling) | Agentic AI exploration and experiments |
 | [INM713-coursework](https://github.com/zdetor54/INM713-coursework) | Knowledge graphs & semantic web (MSc coursework) |
 
