@@ -40,3 +40,7 @@
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zacharias%20Detorakis-blue?logo=linkedin)](https://www.linkedin.com/in/zacharias-detorakis-consultant/)
+
+---
+
+🌐 *Web design is also a passion of mine — all web projects are tagged `zdetor-sites`.*
