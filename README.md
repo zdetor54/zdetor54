@@ -21,6 +21,7 @@
 | Project | Description |
 |---|---|
 | [energy_octopus](https://github.com/zdetor54/energy_octopus) | Energy data analysis in Python |
+| [agentic-online-clinic](https://github.com/zdetor54/agentic-online-clinic) | Agentic workflows for patient and appointment booking |
 | [ibm-data-science-capstone](https://github.com/zdetor54/ibm-data-science-capstone) | Capstone project for IBM Data Science Professional Certificate |
 | [city-ds-final-project](https://github.com/zdetor54/city-ds-final-project) | MSc Data Science final project — City, University of London |
 | [agentic-ai-upskilling](https://github.com/zdetor54/agentic-ai-upskilling) | Agentic AI exploration and experiments |
